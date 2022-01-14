@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"João Emmerich",
+    "description":"I am a FullStack Javascript developer and I use NodeJS and React to develop web applications.",
+    "image":"profilepic.jpg",
+    "bio":"I was never satisfied with the short answer. Lead by curiosity I found programming when in my own company, Furmidable Family, I took the responsibility of designing our website. Soon the default theme in Wordpress was not enough, I wanted to tweak things and make the website my own. So, I learned HTML and CSS, then PHP and Mysql. And boom! I was caught by programming and couldn't turn back.",
+    "contactmessage":"Get in touch!",
+    "email": "emmerichjoao@pm.me",
+    "phone": "645-725-583",
+    "github":"https://github.com/J-Emmerich",
+    "project":"https://gordianknot.xyz",
+    "address":{
+      "street":"Góngora 26",
+      "city":"Barcelona",
+      "state":"Cataluña",
+      "zip": "08042"
+    },
+    "website": "https://joaoemmerich.com",
+    "resumedownload":"https://joaoemmerich.com/resume",
+    "social":[
+     
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joao-emmerich/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/J-Emmerich",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of the technologies I've been working on",
+    "education":[
+      {
+        "school":"IT Academy Bootcamp",
+        "degree":"Backend with NodeJS",
+        "graduated":"December 2021",
+        "description":"A one year bootcamp focused in the backend. I started from the very base in a fundamental javascript course. Gradually moving to developing Secure API, SQL and No-SQL databases, Socket.IO and Design Patterns"
+      },
+      {
+        "school":"Core NetWorks SL",
+        "degree":"Web development with PHP",
+        "graduated":"March 2021",
+        "description":"2 months bootcamp on PHP, learning the fundamentals of the language, SQL databases and OOP with PHP"
+      },
+      {
+        "school":"Federal University of Santa Catarina",
+        "degree":"Screenwriting",
+        "graduated":"December 2013",
+        "description":"A carrer in screenwriting and film making. Studied narrative structure and creative writing. Cinema history and theory, photography and video editing"
+      }
+
+    ],
+    "work":[
+      {
+        "company":"Adiccare",
+        "title":"Junior FullStack developer",
+        "years":"November 2021",
+        "description":"As a final project on the IT Academy Bootcamp I did a internship of 2 weeks in this company. I worked on the backend and frontend. I worked on the design and implementation of forms and user inputs. Working with NodeJS, Express, React, Redux, Saga and TypeScript"
+      },
+      {
+        "company":"Furmidable Family",
+        "title":"Partner and Webdeveloper",
+        "years":"September 2019 - present",
+        "description":"A company I started with a partner, I'm developing the new website(not released) a intern tool for invoices and client management. And also manage the finances and design marketing content."
+      },
+      {
+        "company":"Bosch",
+        "title":"Mobility Agent",
+        "years":"February 2020 - present",
+        "description":"Emergency call operator, receiving calls in English, Portuguese, French and Spanish."
+      },
+      {
+        "company":"Anunzen Classified Media",
+        "title":"Content QA and Team Leader",
+        "years":"August 2018 - October 2019",
+        "description":"I had to manage a team of about 30 freelancers and ensure they meet their KPI's. Review the content they produced, hire and give training to new copywriters."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"100%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"50%"
+      },
+      {
+        "name":"Unity",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Gordian Knot",
+        "category":"My ERP-CRM project. In development.",
+        "image":"gordian-knot.jpg",
+        "url":"https://gordianknot.xyz"
+      },
+      {
+        "title":"Furmidable Family",
+        "category":"A company I started with a partner. We sell eco-friendly products for cat owners",
+        "image":"furmidable-family.jpg",
+        "url":"https://www.furmidablefamily.com"
+      }
+      
+    ]
+  }
+}
